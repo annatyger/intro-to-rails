@@ -1,6 +1,8 @@
-# Class 2 - April 12, 2014
+## April 12, 2014 - Class Two
 
-* Intro to Blocks - Ben
-* Intro to RSpec - Jim
-* Introduction to the class project
-* Unstructured Hack Time
+### Agenda
+* Some Ruby time - questions about koans, quick lecture on blocks
+* Rails time - intro to TDD
+* TDD with Roman numeral kata
+* Start on in-class instructional project - TDD and CRUD
+* Unstructured discovery time - pair up and start on personal projects?
